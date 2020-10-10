@@ -16,11 +16,12 @@ cd [local repository]
 ### `Step 3:`
 Check package.json file and ensure scripts are notated as below: <br />
 
-"scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+"scripts": <br />
+{ <br />
+    "start": "react-scripts start", <br />
+    "build": "react-scripts build", <br />
+    "test": "react-scripts test", <br />
+    "eject": "react-scripts eject" <br />
 },
 
 ### `Step 4:`
