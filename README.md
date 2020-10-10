@@ -3,7 +3,7 @@ This project is created with REACTJS
 # `Linocinema Frontend`
 This is the linocinema react frontend. Only authorize person can have access to this repo <br />
 
-To view the work, open [Linocinema](https://www.linocinema.com/)
+To view the work, open [www.linocinema.com](https://www.linocinema.com/)
 
 ## `How to clone and use this repo`
 
