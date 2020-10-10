@@ -8,13 +8,13 @@ To view the work, open [Linocinema](https://www.linocinema.com/)
 ## `How to clone and use this repo`
 
 ### `Step 1:`
->>> git clone [repository url]
+git clone [repository url]
 
 ### `Step 2:`
->>> cd [local repository]
+cd [local repository]
 
 ### `Step 3:`
->>> Check package.json file and ensure scripts are notated as below: <br />
+Check package.json file and ensure scripts are notated as below: <br />
 
 "scripts": {
     "start": "react-scripts start",
@@ -24,7 +24,7 @@ To view the work, open [Linocinema](https://www.linocinema.com/)
 },
 
 ### `Step 4:`
->>> Delete the node_modules folder and any 'lock' files such as yarn.lock or package-lock.json if present.
+Delete the node_modules folder and any 'lock' files such as yarn.lock or package-lock.json if present.
 
 ### `Step 5:`
 npm install
